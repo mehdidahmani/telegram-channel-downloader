@@ -1,0 +1,5 @@
+.env
+downloads
+session.session
+session.session-journal
+channel_messages.txt
