@@ -28,7 +28,7 @@ ALLOWED_EXTENSIONS = {".pdf", ".zip", ".doc", ".docx", ".rar", ".apk", ".txt", "
 # LOGGING (Terminal only)
 # ==============================
 logging.basicConfig(
-    format="%(asctime)s - %(levelname)s - %(message)s",
+    format="%(levelname)s - %(message)s",
     level=logging.INFO
 )
 logger = logging.getLogger(__name__)
