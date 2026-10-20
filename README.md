@@ -30,3 +30,6 @@ Downloads are resumable: existing files are skipped.
 - Respects "Restrict saving content" and handles `FloodWait` automatically.
 - Use only for content you have the right to download, and follow Telegram's [Terms of Service](https://telegram.org/tos).
 
+
+## Work in progress
+Change made without commit (stash demo).
